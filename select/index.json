@@ -1,0 +1,128 @@
+{
+  "version": 1,
+  "base_track": "Help! (Remastered 2009)",
+  "base_artist": "The Beatles",
+  "createdAt": "2026-03-13T00:25:46.194452Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Help! - Remastered 2009",
+      "artist": "The Beatles",
+      "has_synced": true,
+      "path": "select/01_Help!_-_Remastered_2009_The_Beatles.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Help! - Remastered 2015",
+      "artist": "The Beatles",
+      "has_synced": false,
+      "path": "select/02_Help!_-_Remastered_2015_The_Beatles.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Help! (Remastered)",
+      "artist": "The Beatles",
+      "has_synced": true,
+      "path": "select/03_Help!_(Remastered)_The_Beatles.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Help! (Remastered 2009)",
+      "artist": "The Beatles",
+      "has_synced": true,
+      "path": "select/04_Help!_(Remastered_2009)_The_Beatles.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Help! [Remastered 2015]",
+      "artist": "The Beatles",
+      "has_synced": true,
+      "path": "select/05_Help!_[Remastered_2015]_The_Beatles.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Help (Remastered 2020)",
+      "artist": "Papa Roach",
+      "has_synced": true,
+      "path": "select/06_Help_(Remastered_2020)_Papa_Roach.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Help! (Remastered 2009)",
+      "artist": "The Beatles",
+      "has_synced": true,
+      "path": "select/07_Help!_(Remastered_2009)_The_Beatles.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Help! (Remastered 2009)",
+      "artist": "The Beatles",
+      "has_synced": true,
+      "path": "select/08_Help!_(Remastered_2009)_The_Beatles.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Help! (Remastered 2015)",
+      "artist": "The Beatles",
+      "has_synced": true,
+      "path": "select/09_Help!_(Remastered_2015)_The_Beatles.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Help! (Remastered)",
+      "artist": "The Beatles",
+      "has_synced": true,
+      "path": "select/10_Help!_(Remastered)_The_Beatles.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Help! (Remastered 2009)",
+      "artist": "The Beatles",
+      "has_synced": true,
+      "path": "select/11_Help!_(Remastered_2009)_The_Beatles.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Help! (Remastered)",
+      "artist": "The Beatles",
+      "has_synced": true,
+      "path": "select/12_Help!_(Remastered)_The_Beatles.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Help! (Remastered 2009)",
+      "artist": "Beatles",
+      "has_synced": true,
+      "path": "select/13_Help!_(Remastered_2009)_Beatles.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Help! (Remastered 2009)",
+      "artist": "The Beatles",
+      "has_synced": true,
+      "path": "select/14_Help!_(Remastered_2009)_The_Beatles.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Help!",
+      "artist": "The Beatles",
+      "has_synced": false,
+      "path": "select/pl_01_Help!_The_Beatles.txt"
+    }
+  ]
+}
